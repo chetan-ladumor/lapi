@@ -11,3 +11,5 @@ new lines added ,this will may cause trouble.Now adding this line ,it will surel
 Has this files have any conflict?
 
 let's test stashing
+
+let's play with pull and push.
