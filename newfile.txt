@@ -1,7 +1,11 @@
 sdfgsdsdfsdf
 	updated content inbetween
+	conflict
 sadfsdf
 
+     conflict detection
+
+new lines added ,this will may cause trouble.
 
 
-new lines added
+Has this files have any conflict?
