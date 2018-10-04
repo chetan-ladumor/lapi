@@ -5,7 +5,7 @@ sadfsdf
 
      conflict detection
 
-new lines added ,this will may cause trouble.
+new lines added ,this will may cause trouble.let's check again
 
 
 Has this files have any conflict?
