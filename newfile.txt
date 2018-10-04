@@ -2,10 +2,12 @@ sdfgsdsdfsdf
 	updated content inbetween
 	conflict
 sadfsdf
-
+stashing
      conflict detection
 
 new lines added ,this will may cause trouble.Now adding this line ,it will surely may conflict with very bad 
 
 
 Has this files have any conflict?
+
+let's test stashing
